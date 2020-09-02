@@ -4,10 +4,10 @@
 
 Handling user score
 
-### Scenario: Incrase a score
+### Scenario: Increase a score
 
 Given - Score variable
 
 When - A ball hits a canvas
 
-Then - The score of opposite user is incrementated
+Then - The increments a score of opponent user
