@@ -1,7 +1,7 @@
 # Ball
 
 ## Feature
-  Handling Ball movements
+Handling Ball movements
 
 ### Scenario: Ball Bounce
 
