@@ -21,7 +21,7 @@ When - Pressed Key is identified
 
 Then - Based on key pressed, a y coordinates of paddle are either increased or decreased.
 
-### Scenario: Collison Detection
+### Scenario: Collision Detection
 
 Given -  Each user has one paddle.
 And: one ball for all users
