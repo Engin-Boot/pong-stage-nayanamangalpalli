@@ -26,6 +26,6 @@ Then - Based on key pressed, a y coordinates of paddle are either increased or d
 Given -  Each user has one paddle.
 And: one ball for all users
 
-When - a ball hits a paddle 
+When - a ball hits a paddle
 
 Then - bounce a ball
