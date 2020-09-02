@@ -1,6 +1,7 @@
 # Canvas
 
 ## Features
+
 Handling canvas events
 
 ### Scenario: Changing Canvas Background
